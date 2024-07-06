@@ -14,4 +14,3 @@
         name: vmware_ops_cluster_settings_test
       tags:
         - eco-vcenter-ci
-        - integration-ci
